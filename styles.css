@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+}
+.odd {
+    background-color: cyan;
+}
+.even {
+    background-color: red;
+}
+.header {
+    background-color: yellow;
+}
